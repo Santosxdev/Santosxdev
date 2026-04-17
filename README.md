@@ -99,3 +99,7 @@ Sou Igor Cerqueira dos Santos, tenho 19 anos e sou de Pernambuco. Atualmente est
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santosxdev&show_icons=true&theme=radical)
+
